@@ -60,7 +60,7 @@ pandas.groupby()를 활용한 그룹별 평균 비교
 
 🛠️ 사용 기술
 
-Python 3.x
+google colab
 
 pandas
 
