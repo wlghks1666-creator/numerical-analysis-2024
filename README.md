@@ -84,13 +84,6 @@ age_group_rate = (
 
 전체적으로 남성의 심장질환 발생 위험이 여성보다 높음
 
-🚀 실행 방법
-
-저장소 클론
-
-git clone https://github.com/사용자이름/framingham-heart-disease-analysis.git
-
-
 필요 라이브러리 설치
 
 pip install pandas numpy matplotlib
